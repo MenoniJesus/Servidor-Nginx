@@ -1,5 +1,11 @@
 <h1>Servidor-Nginx</h1> 
 
+<h2>Tecnologias usadas:</h2>
+
+- Linux 
+- Ubuntu
+- Shell 
+
 <h2>Instalação do WSL (Windows Subsystem for Linux)</h2>
 
 1. Abra o Terminal do Windows (PowerShell ou Command Prompt).
