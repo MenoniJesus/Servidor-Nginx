@@ -1,4 +1,4 @@
-<h1>Servidor-Nginx</h1> 
+![image](https://github.com/user-attachments/assets/68e2964b-8879-41f0-a07a-620abdd4194c)<h1>Servidor-Nginx</h1> 
 
 <h2>Tecnologias usadas:</h2>
 
@@ -27,7 +27,8 @@
 <h2>Instalação do Nginx</h2>
 1 - No terminal da sua distribuição WSL, execute o comando:
 
-    mkdir /var/log/logNginx
+    sudo apt install nginx
+
 
 2 - Verifique se a instalação foi bem-sucedida:
 
