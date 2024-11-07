@@ -24,6 +24,8 @@
   
 5. Após a instalação, configure o usuário e senha.
 
+OBS: https://learn.microsoft.com/pt-br/windows/wsl/install
+
 <h2>Instalação do Nginx</h2>
 1 - No terminal da sua distribuição WSL, execute o comando:
 
