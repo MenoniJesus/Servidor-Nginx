@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68e2964b-8879-41f0-a07a-620abdd4194c)<h1>Servidor-Nginx</h1> 
+<h1>Servidor-Nginx</h1> 
 
 <h2>Tecnologias usadas:</h2>
 
